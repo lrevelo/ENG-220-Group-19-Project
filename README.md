@@ -29,7 +29,7 @@ Our expected outcome is to have an easily accessible place to view each individu
 
 ---
 
-## 👥 Team 20 Members
+## 👥 Team 19 Members
 | Name | Role |
 |------|------|
 | **Joshua Reyes** | Team Leader / Streamlit Developer / GitHub Management |
