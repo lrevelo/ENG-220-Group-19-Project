@@ -60,7 +60,7 @@ Our expected outcome is to have an easily accessible place to view each individu
 - Provide dataset links and justification.
 
 **Name:** Luke Revelo
-**Role:** Data Analyst
+**Role:** Research Data Analyst
 **Contribution:**
 - Data Cleaning & Preprocessing
 
