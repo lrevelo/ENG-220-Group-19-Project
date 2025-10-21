@@ -60,9 +60,9 @@ Our expected outcome is to have an easily accessible place to view each individu
 - _(To be added)_
 
 **Name:** Luke Revelo**
-**Role:**
+**Role:** - Data Analyst
 **Contribution:**
-- _(To be added)_
+- Data Cleaning & Preprocessing
 
 **Name:** Kyle Pruitt**
 **Role:**
