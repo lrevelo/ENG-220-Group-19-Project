@@ -59,8 +59,8 @@ Our expected outcome is to have an easily accessible place to view each individu
 **Contribution:**
 - _(To be added)_
 
-**Name:** Luke Revelo**
-**Role:** - Data Analyst
+**Name:** Luke Revelo
+**Role:** Data Analyst
 **Contribution:**
 - Data Cleaning & Preprocessing
 
